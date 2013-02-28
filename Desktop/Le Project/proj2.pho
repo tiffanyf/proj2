@@ -1,0 +1,36 @@
+<?php include "header.php"; ?>
+
+<div class="container_12">
+
+	<div class="grid_12">
+    
+    	<div id="featured">
+        FEATURED PRODUCTS
+        </div>
+    
+    </div>
+    
+</div>
+
+<div class="container_12">
+
+	<div class="grid_6">
+    	<div id="blog">
+    	<h3>Recent Blog Posts</h3>
+        <p><a href="blog1.html">le blog post 1</a></p>
+        <p><a href="blog2.html">le blog post 2</a></p>
+        <p><a href="blog3.html">le blog post 3</a></p>
+        <p><a href="blog4.html">le blog post 4</a></p>
+        <p><a href="blog5.html">le blog post 5</a></p>
+        </div>
+    </div>
+    
+    <div class="grid_6">
+    	<div id="umm">
+    	<h3>Figure out something to put here</h3>
+    	</div>
+    </div>
+
+</div>
+
+<?php include "footer.php"; ?>

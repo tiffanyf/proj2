@@ -1,0 +1,154 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+div#logo {
+	height:100px;	
+}
+
+div#social {
+	height:100px;
+	
+}
+
+div#socialcontents {
+	
+	height:30px;
+	padding-top:75px;
+}
+
+div#nav {
+	height:50px;
+	background-color:#1f74c4;
+}
+
+div#navin{
+	margin:0px 0px 0px 220px;
+}
+
+ul {
+	overflow:auto;
+}
+
+a {
+	text-decoration:none;
+	color:#ffffff;
+}
+
+a:link {
+
+}
+
+a:visited {
+}
+
+a:hover{
+	background-color:#CCC;
+}
+
+a.link {
+	font-size:24px;
+}
+
+a.logo {
+	text-decoration:none;
+}
+
+a.logo:link {
+}
+
+a.logo:visited {
+}
+
+a.logo:hover {
+	background-color:#FFF;
+}
+
+li {
+	display:inline;
+	font-size:24px;
+	float:left;
+	margin:10px 10px 5px 10px;
+}
+
+div#featured {
+	height:200px;
+	margin:10px 0px 10px 0px;
+	background-color:#CCC;
+}
+
+div#blog {
+	height:250px;
+	margin: 0px 0px 10px 0px;
+	background-color:#CCC;
+}
+
+div#leposts {
+	margin-top:5px;
+	margin-left:5px;
+}
+
+a.link3{
+	font-size:24px;
+}
+
+a.link3:visited{
+}
+
+a.link3:hover{
+	background-color:#666;
+}
+
+h3 {
+	background-color:#1f74c4;
+	color:#FFF;
+	padding:5px;
+}
+
+div#umm {
+	height:250px;
+	margin:0px 0px 10px 0px;
+	background-color:#CCC;
+}
+
+/*Footer */
+
+div#footer {
+	height:100px;
+	background-color:#1f74c4;
+	margin-top:10px;
+}
+
+div#footercontents {
+	padding-top:5px;
+	padding-left:350px;
+}
+
+/*SOFTWARE PAGE */
+
+div.productcontainer {
+	height:250px;
+	margin-top:10px;
+	border:solid 1px #1f74c4;
+}
+
+div.productimage {
+	width:200px;
+}
+
+div.productinfo {
+	margin:-175px 0px 0px 200px;
+	width:260px;
+	
+}
+
+/*Product Page */
+
+div.product {
+	margin-top:10px;
+}
+
+a.link2 {
+	color:#1f74c4;
+	font-size:24px;
+}
